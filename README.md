@@ -5,7 +5,7 @@ A rococo-based backend for TodoMVC application.
 ## Prerequisites
 
 - Docker and Docker Compose
-- Python 3.11+ (for generating secrets)
+
 
 ## Quick Start
 
